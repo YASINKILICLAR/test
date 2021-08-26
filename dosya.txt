@@ -2,3 +2,4 @@ tertererere
 ererererer
 intellij ile commit olusturuyorum
 2.commit olusturuyorum
+3.commit olusturyorum
